@@ -4,4 +4,4 @@ Stimuli are contained in the extracted food pics folder, there are two experimen
 the other using all of the entire 120 images selected, 30 for each condition. Experiment is run by using random stimuli, not optseq2. 
 Use Spacebar to start the experiment 
 
-Information on food kcal/100g is contained in extraction of food images excel sheet
+Information on food kcal/100g is contained in extraction of extraction images info excel sheet
